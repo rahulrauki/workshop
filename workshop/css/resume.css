@@ -1,0 +1,20 @@
+.right{
+  display: inline-block;
+  margin-left: 1%;
+}
+img{
+  width:8%;
+  border-radius: 50%;
+}
+
+table,td,th{
+  padding:2px;
+  border: 2px solid black ;
+  border-style:groove;
+}
+button{
+  padding: 2%;
+  font-size: 200%;
+  border-radius: 20%;
+  background-color: pink;
+}
